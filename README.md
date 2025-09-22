@@ -32,5 +32,5 @@
 ---
 
 <p align="center" style="font-size:13px">
-✨ Creado por <strong>NKG</strong> como práctica de desarrollo frontend ✨
+✨ Creado por <strong>Nidia Karina Garzon Grajales</strong> como práctica de desarrollo frontend ✨
 </p>
